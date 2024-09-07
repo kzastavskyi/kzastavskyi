@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Certified Data Analyst with recent training and practical experience in data analysis and visualization.
+- 👀 Strong skills in data analysis, presentation, and UX/UI design, ready to provide actionable insights.
+- 😄 Leveraged advanced spreadsheet techniques to optimize inventory processes and support data-driven decision-making.
+- ⚡ Experienced in creating visually compelling presentations for top management, and collaborating on tools that improve reporting efficiency.
